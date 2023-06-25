@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Lista de Tarefas",
+    "version": "1.0",
+    "permissions": ["notifications", "storage"],
+    "action" : {
+        "default_popup": "index.html",
+        "default_title": "Lista de Tarefas"
+    } ,  
+    "icons":{
+        "16": "imagens/icone16.png",
+        "48": "imagens/icone48.png",
+        "128": "imagens/icone128.png"
+    }
+}
