@@ -1,5 +1,8 @@
-# extensao_lista_de_tarefas
-Extensão de Lista de Tarefas para o Google Chrome.
+
+<h2>Extensão de Lista de Tarefas para o Google Chrome.</h2>
+<br/>
+<img width="400px" src="imagens/extensao.gif">
+<img width="400px" src="imagens/extensao.png">
 
 <br/>
 Acesse o vídeo
